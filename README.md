@@ -37,7 +37,12 @@ Manage the application state using React's state or context API. Update the UI b
 
 screenshots:
 
+
+Create 
+
 ![image](https://github.com/parikhpreksha/React-Crud-APP/assets/88531258/e60c0574-5ee2-4084-99db-6a03df911e99)
+
+Read
 
 lightmode:
 
@@ -46,4 +51,9 @@ lightmode:
 
 Darkmode
 ![image](https://github.com/parikhpreksha/React-Crud-APP/assets/88531258/df13ff3a-8de1-495b-8d03-408d67c81526)
+
+Update
+
+![image](https://github.com/parikhpreksha/React-Crud-APP/assets/88531258/9cf5c482-f905-44bf-b833-f2b9917056b8)
+
 
